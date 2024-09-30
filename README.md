@@ -1,4 +1,4 @@
-# 🍁 Halo ~ I'm Regena !!! (*≧▽≦)ツ Welcome to my profile <img src="https://media.giphy.com/media/4tSHBpzJw7R3rrKUeo/giphy.gif" width="28"/>
+# 🍁 Halo ~ I'm Regena !!! (*≧▽≦)ツ Welcome to my profile <img src="https://media.giphy.com/media/wIUQQ07BHzDry/giphy.gif?cid=82a1493b41p9ubfziuhfwopwp1dn0b1jmlhtnunkdy23ylj2&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="32"/>
 
 **🍁 I can speak Chinese, Vietmese, English and currently learn Japanese **
 
