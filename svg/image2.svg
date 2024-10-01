@@ -6,9 +6,11 @@
     }
 
     .circle {
+    width: 120px
+      height: 120px
       fill: none;
-      stroke: blue;
-      stroke-width: 2;
+      stroke: Black;
+      stroke-width: ;
       filter: url(#glow);
     }
 
