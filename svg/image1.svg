@@ -128,25 +128,31 @@
         </div>
         <div class="skills">
           <div class="skills_icon">
-            <img
-              src='data:image/webp;base64,UklGRiZlAABXRUJQVlA4WAoAAAASAAAAxwAAxwAAQU5JTQYAAAD/////AABBTk1G8BoAAAAAAAAAAMcAAMUAAG4AAAJBTFBIngYAAAGwhm3b+TfS/WpsMxnb9kyytu3dse2ZFGvVs7aLtTU2i7XTWdft6Pfi/vBH83vaPO+3OSJiAsyz9bfWuhCCh1i/QQjB2T7HNef7DA49nVistQt+3RRmrQ99OtvdOPS/++COp00YuXH64lGZ/1j8qesnjkw4bqfBge67Y101BmJcsBjrfYbOGBoaGnrOiRfN/cYPU45cF2PumnL64bfmzhnb2XPPPGl4aOzPAIxMOADYarM3n3/e+V0vfPfXFzw2v3PBw2u4tqVpmpjFxqZpGq4HPwkrAhbugDN/uHwZxzj1jjGWUgrll35ji6nNmJd6iDA48NvsTE2fKfdMheN/5qiT4TCbTUqlUKuZv4OUaSVSsw0nwotA+A+zckYQJAD4Wx04DD2dinImyfB4DSNVG3klvASHS5lUU5gGYAXA41b97C7CYsfHWVRDOQexULVFisO7mHRDKQGfZaOdMiACm/yVWTeJP4M1EjZbzaKbyG/CC/B4bUzqmS0BAeewoW4TXwLXnrH4DpN6hiXAYhGzbkpZug9sexb7/L8U3SQ+Aov2HIaZqNvMBTACHV6ioPkiPGYzVkHANyvB4mdMNWCxR6F2ExfI2CGph7k5Aa41j3cwqSfxufCtBbyfjXYy/7ABjICbNfQoLASMaGgBTPseEzQ0X0LATRpaKAF4jFk/D4rw/9JP5CXwAtw/9NPwAoTWAPd3/cTyTvjWDMJ/WZRTuGIrGIH4GZN61khAwLVslJP5940FGI+J6mk4A0FAwAT1RN4CL+JmBc0S8oFKcHh+KaUGLHZIrITBROVGfkJO0U3DKQgitldP4i9gBDq8oWTqtvCprWHbC/gAG/Us3wKmfY8JjOpZsaWEgGvZVIHFN5mqAOF/LHWAvzHXwWb/ZFHPsi0EeLyekep5apv24PEy/WQ+gPaMwwwm7UR+HAEC7tXQJ+BN2/D4mYZmCTCwjzLr5xYBDkeyUD8zBVgcpqLPIgg4WEGJV8C35nASs3oK94dtzWMmo4KOEPEJFR0mIGBKJRj8gElBBwvA1k+yqCfzJLj2tlyuoMiZ8O...(line too long; chars omitted)
-            />
+            <!-- Add your image source here -->
+            <img src="path/to/your/image1.webp" />
           </div>
           <div class="skills_icon">
-            <img
-              src='data:image/webp;base64,UklGRvDtAABXRUJQVlA4WAoAAAASAAAAxwAAyQAAQU5JTQYAAAD/////AABBTk1G+DsAAAAAAAAAAMcAAMcAAGQAAAJBTFBIIiAAAAHQRm3bsj2Ndlz2JEBwCFSCf8UdirtL3ahgNbzuLljbmUANOlOoG9TdkLphLVacFgkDIZCEELmv6zr3H/f9PO/z3Om8n68VERPg/q9eH0cM0zj5pJF99NMzhSRt9Jrvfvd77e8+f2dJMWjaJZekTT6xhFGvP211KQVNr+S9NvrkCigld5YCLLp0C2kwrZKXTnwSsjGi1QLLLt5Uipo2yUufhWwAZlbMDMAyPHpyVHKaHsk7fY4VBlAz3bnQznDjzpLXdEje6RIagFph+bKHfrp86TKwbIBleE9Q1PRH3ukSGoAMd7139gZraoPZT3n1T4ACUAtXSEHTHXmnS2kAa5h/utpe7T0+vJhaAVZwhRQ0vZF3+iwNYPCDTeWj995575OXdvoZZICGK6Wo6Yy802dpgMry10jJjRoG0j7XkA1o+KUUNH2Rkz5LA1SW7a8YNJJTiFrjMqoBDVdIXtMW5/WfNEC25ftrhpObqpL0DpoKNFzhndc0RVEvowEKzf4ayI1RPultYMAKztZguuK14ZJqULhmbw3kxioX9ZrHSwVryslKmpYo6d/JULhCSnJjlhvoLBoDqxyrpOmI10YLzajcIyW58Wugd1ANSr1jDflpiJJOoYHaHKokN9God1GAhrkaaPrh5K6hkvmOotxE5aJ+RgErC7dV0LQjaB8qFE5UdBOW1+wFtULmd/JuuqmouWQqd3q5iSvpXDJQeaGCphlO4S4qmbmKk3NOuo4ChX/KTTeD9qBCYR+FHijqOS0ryw5UmF4o6IdkCr+TXB/l9AcKFK5W0LTC66kLMBrOUuqFSzrFGqBykOK0IuoYMlQ7VKEfXhsvw6DwK/lpRdBcCpkrFVxPva4kg7F8U/npxW87TlfsS9QZLRpOV5pGeO241AyWbSzfF6+NlwNU/ixNI5I+TkPhNwqut0FXUYDCfgrTh6iLaMhcrNifqNPJQOZTimPxcfT/NpTmUc0efZp8f7w2ecIMClfIj+B9Sik457ym6lxM4V9f1LG1WOVOuT57XUkBo24i3/Jh4DTipkcdceTwow5Wd/L/2h...(line too long; chars omitted)
-            />
+            <!-- Add your image source here -->
+            <img src="path/to/your/image2.webp" />
           </div>
           <div class="skills_icon">
-            <img
-              src='data:image/webp;base64,UklGRqJLAABXRUJQVlA4WAoAAAASAAAA3wAAxwAAQU5JTQYAAAD/////AABBTk1GhBIAAAIAAAIAANIAALkAAG4AAANBTFBI8AcAAAGwRtvW8rTaed43niChTt0F/Rj0q7sC193d3d297kJ7pe7eq3V3h9EBVepegpOQvM+PhPDmec9z8jciJgCiWsaYOzFkfYV8puZtQuZ8+um/BSG3f9a1TT3GWFgsJJ36HysKWczDvVL0z4gROUlJiUqwqW3SkyNGjBjxfAerErJRUlKMEppRginBQS9z3T1Xr+7JDf698GoF55xXnpmbG3L71asrckN/lBm6lRLMDKI0UcRR9G6YmZmZeXdubm7uTz07MGg3sVovQX3FofMWL168eP4DvYN7xgoW883eb9r3rj1RDV2boqqqGtsjRVEUtX3vUYt13llcXFxczjnnAU9hPwDX74aqq7cquGKkIpRrgpd7z1TVnrcu5Px7skLPXLdu3bqdZZdnzBi/7kxVgIs4DwDSjuJR67kUobI9XF+tVm7AWQAAr5RiE1jgFqjRKo6t944g2zxseNnDTBjTJzXo7GseBL2LseH/Jggz4DxHVjuYASEti9Ape4gJ4lzIka2cnMpCQd9SbPi/bkEGerCZEQu12xZo2FS8axbCtpQjuz8Nwm11DBte1EWIAeXIHElnYamP3saG/2ISwLKM4+p5GeoY81sNNhc6CtDfg4v/C1tdoH0+NnyCI2L2hRzXbYlQZ/VzLzblOZFig2/hUjoYdKy/Bhu+Ni5CzXdzXL+x6gE5Jdh4v1QiorzrxaWwLejqXIkNL+gUkdaHOaolz5n0gSGl2Ph/i4uAc6IPlxWxoLN9DTbccyfTb8ANjuqFLNA9qwIbvjxOt0ZLOKo135r0i92PjieH6WR6owaX451Af/VzDRu+roVOmZc4qmUPqxGAtgXoaJ+ouiQs57j+EwORNH2FDj/ZSg/Tyz5cyu+AyA65jQ7/xlo31vUSx3WiI0Kuxfh4Btat4WoNl/MdIdIv+9Dhi111sb9dwXEdYYpY60P4lL3JwmMP3eC4FiVDxJUPvOjw/K7hddjOcdV+MUcOWh3Bh89yhGP/RUPmTAoIyCYgdH1AGOy+co5r4EezCND7Oj58rqu2+A0c2RNJIKR1FkI371VDsU...(line too long; chars omitted)
-            />
+            <!-- Add your image source here -->
+            <img src="path/to/your/image3.webp" />
           </div>
           <div class="skills_icon nodejs">
-            <img
-              src='data:image/gif;base64,R0lGODlhrAHgAfdMAEZHNUdINU1TNlBXN1ZjOGF1OW6LO3CPPH+oPoWzP4i3P4i3QI/EQZDFQZbITN3sxPP36f79/ElMNlhmOFxsOHOTPHmdPYe2QIq8QJLIQZTHSabQZrLWe8ripNPms2R7OmeAOmqEO3aaPZrKUp7MWqPOY7DVd7XXgLjZhr/dkcHelMTfm8bgnc7kq+Huy/X47VJcN1ReOFVhN15xOXykPoKtP4m6P4/EPpjJT6HNXqbPaKrSba3UdLbYgrzbi8fgoNTottbputnpvd/uyOPv0Obx1Ojy1+vz2+714vH25vf58fr79VJbN1RfOFhnN19xOWh/OnyjPo7EPpjJTrfYg+bw0+vz3O714fH25U9YNVViN1psNl5yNmV+N2V7OmiFNmeBOWmEOnaaPIGsPom7P5vKU57MWaHOXqPOYafRaqnRa63Tc6/VeLjZhbvbir/bk8LelsTfmsbgnM/lrNDmrtXottfputnqvt/tyOLuzePwz+jy1vT47Pf68fn79ElMNVZiN1lmOFtrOHKTPHmePYGsP4e4Poq7P4a0QIu8QJHIQZXHSaDNXabQZ6fRaanRbK3TdLLWfLvbi8fhoMnhotHlrtPmtNboudnqveTv0ejx1/f58Pr79AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH/C05FVFNDQVBFMi4wAwEAAAAh+QQJDgBMACwAAAAArAHgAQAH/4BMgoOEhYaHiImKi4yNjo+QkZKTlJWWl5iZmpucnZ6foKGio6SlpqeoqaqrrK2ur7C...(line too long; chars omitted)
-            />
+            <!-- Add your image source here -->
+            <img src="path/to/your/image4.gif" />
           </div>
           <div class="skills_icon">
-            <img
-              src='data:image/webp;base64,UklGRuZrAABXRUJQVlA4WAoAAAASAAAAzQAAxwAAQU5JTQYAAAD/////AABBTk1GnhoAAAIAAAIAAL0AALoAAIEAAAJBTFBIEA0AAAGghW3bIqf5/pm17CYhrkSQJGgEK+7uFbTuuNWFUje8lhpeA4rWXXG34hJPaJQYKzPfQTa7838z/x5Hx
+            <!-- Add your image source here -->
+            <img src="path/to/your/image5.webp" />
+          </div>
+          <div class="skills_icon">
+            <!-- Add your image source here -->
+            <img src="path/to/your/image6.webp" />
+          </div>
+        </div>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
