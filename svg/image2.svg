@@ -20,11 +20,13 @@
     /* Text style */
     .text {
       font-family: Arial, sans-serif;
-      font-size: 28px; /* Increased font size */
+      font-size: 30px; /* Increased font size */
       fill: Purple; /* Brighter, contrasting text color */
       font-weight: bold; /* Makes text thicker for better readability */
       filter: none; /* Removed glow effect for clearer text */
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Added shadow for better contrast */
+    text-anchor: middle; /* Horizontally centers the text */
+      dominant-baseline: middle;
     }
 
     @keyframes rotate {
