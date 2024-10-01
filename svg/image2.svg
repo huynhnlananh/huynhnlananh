@@ -2,13 +2,13 @@
   <style>
     .main {
       transform-origin: center;
-      animation: rotate 1s infinite linear; /* Speed up the rotation */
+      animation: rotate 4s infinite linear; /* Speed up the rotation */
     }
 
     .circle {
       fill: none;
       stroke: black;
-      stroke-width: 2;
+      stroke-width: 4;
       filter: url(#glow);
     }
 
