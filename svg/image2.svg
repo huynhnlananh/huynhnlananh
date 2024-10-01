@@ -19,9 +19,9 @@
 
     /* Text style */
     .text {
-      font-family: Arial, sans-serif;
+      font-family: Segoe UI, Roboto;
       font-size: 30px;
-      fill: Blue;
+      fill: Black;
     overflow: hidden;
           font-weight: bold;
 					font-size: 36px;
@@ -81,5 +81,5 @@
   </g>
 
   <!-- Text "Hallo" to the left of the circle -->
-  <text x="120" y="200" class="text">Hallo</text>
+  <text x="120" y="200" class="text">Hallo ~ I'm Rena <br> Nice to meet you </text>
 </svg>
