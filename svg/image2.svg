@@ -71,9 +71,9 @@
   <g class="main" transform="rotateX(60) rotateZ(-30)">
     <!-- Circle group -->
     <g class="circle-group">
-      <circle class="circle" cx="200" cy="200" r="60"/>
-      <circle class="circle" cx="200" cy="200" r="60" transform="translateZ(-90)"/>
-      <circle class="circle" cx="200" cy="200" r="60" transform="translateZ(90)"/>
+      <circle class="circle" cx="200" cy="200" r="100"/>
+      <circle class="circle" cx="200" cy="200" r="100" transform="translateZ(-90)"/>
+      <circle class="circle" cx="200" cy="200" r="190" transform="translateZ(90)"/>
     </g>
   </g>
 
