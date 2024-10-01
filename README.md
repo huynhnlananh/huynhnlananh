@@ -11,7 +11,7 @@ I'm a Full-stack developer and having knowledge and be able to use programming l
 -->
 
 <a href="#" target="_blank">
-  <img src="svg/image1.svg" width="1200" alt="Click to see more"/>
+  <img src="svg/image2.svg" width="1200" alt="Click to see more"/>
 </a>
 
 <h2 align="center">I can speak Chinese, Vietmese, English and currently learn Japanese <br> Here are my Technologies and Tools </h2>
