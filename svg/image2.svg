@@ -7,7 +7,7 @@
 
     .circle {
       fill: none;
-      stroke: black;
+      stroke: Red;
       stroke-width: 7;
       filter: url(#glow);
     }
@@ -21,7 +21,7 @@
     .text {
       font-family: Arial, sans-serif;
       font-size: 28px; /* Increased font size */
-      fill: yellow; /* Brighter, contrasting text color */
+      fill: Purple; /* Brighter, contrasting text color */
       font-weight: bold; /* Makes text thicker for better readability */
       filter: none; /* Removed glow effect for clearer text */
       text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Added shadow for better contrast */
