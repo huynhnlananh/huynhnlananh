@@ -20,11 +20,11 @@
     /* Text style */
     .text {
       font-family: Arial, sans-serif;
-      font-size: 24px;
-      fill: white;
+      font-size: 30px;
+      fill: black;
       text-anchor: end; /* Aligns text to the left */
       filter: url(#text-glow); /* Applies the glow effect to the text */
-      animation: text-fade 3s infinite alternate; /* Creates a fade effect */
+      animation:  typing 5s forwards; /* Creates a fade effect */
     }
 
     @keyframes rotate {
