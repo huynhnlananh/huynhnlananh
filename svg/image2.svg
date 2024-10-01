@@ -2,15 +2,13 @@
   <style>
     .main {
       transform-origin: center;
-      animation: rotate 20s infinite linear;
+      animation: rotate 10s infinite linear; /* Speed up the rotation */
     }
 
     .circle {
-    width: 20px
-      height: 20px
       fill: none;
-      stroke: Black;
-      stroke-width: ;
+      stroke: black;
+      stroke-width: 2;
       filter: url(#glow);
     }
 
@@ -23,10 +21,10 @@
     .text {
       font-family: Arial, sans-serif;
       font-size: 24px;
-      fill: white; /* Changed to black */
+      fill: white; /* Text color */
       margin-left: 70px;
-      filter: url(#text-glow); /* Applies the glow effect to the text */
-      animation: typing 5s forwards; /* Creates a fade effect */
+      filter: url(#text-glow); /* Glow effect on text */
+      animation: typing 5s forwards; /* Typing effect */
     }
 
     @keyframes rotate {
@@ -74,9 +72,11 @@
       <circle class="circle" cx="200" cy="200" r="100"/>
       <circle class="circle" cx="200" cy="200" r="100" transform="translateZ(-90)"/>
       <circle class="circle" cx="200" cy="200" r="190" transform="translateZ(90)"/>
+      <!-- New circle added -->
+      <circle class="circle" cx="200" cy="200" r="140"/>
     </g>
   </g>
 
-  <!-- Text "Hallo" to the left of the circle -->
-  <text x="120" y="200" class="text">Halo ~ Immm Rena </text>
+  <!-- Text "Halo ~ Immm Rena" to the left of the circle -->
+  <text x="120" y="200" class="text">Halo ~ Immm Rena</text>
 </svg>
