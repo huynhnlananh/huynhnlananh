@@ -4,16 +4,29 @@
       transform-origin: center;
       animation: rotate 20s infinite linear;
     }
+
     .circle {
       fill: none;
       stroke: blue;
       stroke-width: 2;
       filter: url(#glow);
     }
+
     .circle::before, .circle::after {
       fill: blue;
       filter: url(#glow);
     }
+
+    /* Text style */
+    .text {
+      font-family: Arial, sans-serif;
+      font-size: 24px;
+      fill: white;
+      text-anchor: end; /* Aligns text to the left */
+      filter: url(#text-glow); /* Applies the glow effect to the text */
+      animation: text-fade 3s infinite alternate; /* Creates a fade effect */
+    }
+
     @keyframes rotate {
       0% {
         transform: rotateX(0) rotateY(0) rotateZ(0);
@@ -22,7 +35,17 @@
         transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
       }
     }
+
+    @keyframes text-fade {
+      0% {
+        opacity: 0.5;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
   </style>
+
   <defs>
     <filter id="glow">
       <feGaussianBlur stdDeviation="10" result="coloredBlur"/>
@@ -31,14 +54,27 @@
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
+    <!-- Glow filter for the text -->
+    <filter id="text-glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
+
+  <!-- Rotating circles group -->
   <g class="main" transform="rotateX(60) rotateZ(-30)">
-    <!-- Loop to create circles -->
+    <!-- Circle group -->
     <g class="circle-group">
       <circle class="circle" cx="200" cy="200" r="60"/>
       <circle class="circle" cx="200" cy="200" r="60" transform="translateZ(-90)"/>
       <circle class="circle" cx="200" cy="200" r="60" transform="translateZ(90)"/>
-      <!-- Add more circles as needed -->
     </g>
   </g>
+
+  <!-- Text "Hallo" to the left of the circle -->
+  <text x="120" y="200" class="text">Hallo</text>
 </svg>
