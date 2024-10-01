@@ -6,8 +6,8 @@
     }
 
     .circle {
-    width: 120px
-      height: 120px
+    width: 70px
+      height: 70px
       fill: none;
       stroke: Black;
       stroke-width: ;
@@ -23,7 +23,7 @@
     .text {
       font-family: Arial, sans-serif;
       font-size: 24px;
-      fill: black; /* Changed to black */
+      fill: white; /* Changed to black */
       margin-left: 70px;
       filter: url(#text-glow); /* Applies the glow effect to the text */
       animation: typing 5s forwards; /* Creates a fade effect */
