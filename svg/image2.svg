@@ -2,7 +2,7 @@
   <style>
     .main {
       transform-origin: center;
-      animation: rotate 10s infinite linear; /* Speed up the rotation */
+      animation: rotate 1s infinite linear; /* Speed up the rotation */
     }
 
     .circle {
