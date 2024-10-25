@@ -9,7 +9,7 @@ I'm an indie full-stack developer and having knowledge and be able to use progra
 
 * (/≧▽≦)/  I can speak fluent in **(Vietnamese, English)** and basic in **(Japanese, Chinese)**
 * ( •̀ ω •́ )y  You can contact me at [huynhnlananh@gmail.com](mailto:huynhnlananh@gmail.com)
-*  =￣ω￣=  Currently learning Python
+*  =￣ω￣=  Currently learning Python and Japanese
 
 <a href="https://www.instagram.com/crxx.qq/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/crxx.qq?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
